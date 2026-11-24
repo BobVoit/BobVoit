@@ -1,6 +1,6 @@
 <h1 align="center">Vladimir Danilov</h1>
 
-<p align="center"><strong>1C:Enterprise Developer</strong> · exploring web development</p>
+<p align="center"><strong>1C:Enterprise Developer</strong> · web development</p>
 
 ---
 
@@ -10,7 +10,7 @@ I develop on the **1C:Enterprise** platform. In learning and personal projects, 
 
 ### 🛠 Stack
 
-`1C:Enterprise` · `JavaScript` · `React` · `Node.js` · `Python` · `Go` · `C#` · `PHP`
+`1C:Enterprise` · `JavaScript` · `React` · `Node.js` · `Python`
 
 ### 📫 Get in touch
 
